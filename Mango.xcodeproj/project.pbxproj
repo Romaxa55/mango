@@ -886,18 +886,18 @@
 /* Begin XCRemoteSwiftPackageReference section */
 		7069E00A29ADE79C0012C435 /* XCRemoteSwiftPackageReference "XrayKit" */ = {
 			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "https://github.com/daemooon/XrayKit.git";
+			repositoryURL = "https://github.com/romaxa55/XrayKit.git";
 			requirement = {
-				kind = exactVersion;
-				version = 0.1.45;
+				kind = branch;
+				branch = main;
 			};
 		};
 		708B37F829B036C500E24312 /* XCRemoteSwiftPackageReference "Tun2SocksKit" */ = {
 			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "https://github.com/daemooon/Tun2SocksKit.git";
+			repositoryURL = "https://github.com/romaxa55/Tun2SocksKit.git";
 			requirement = {
-				kind = exactVersion;
-				version = 2.2.0;
+				kind = branch;
+				branch = main;
 			};
 		};
 		70F82CE929CC21B40072B334 /* XCRemoteSwiftPackageReference "CodeScanner" */ = {

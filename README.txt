@@ -1,20 +1,24 @@
-系统要求：iOS16.0+
+## Системные требования: iOS 16.0+
 
-开发语言：Swift、Golang、C、Assembly
+## Языки разработки:
+- Swift
+- Golang
+- C
+- Assembly
 
-界面框架：SwiftUI、UIKit
+## Интерфейсные фреймворки:
+- SwiftUI
+- UIKit
 
-内核：
-    xray: https://github.com/XTLS/Xray-core(1.8.0)
+## Ядро:
+- xray: [https://github.com/XTLS/Xray-core](https://github.com/XTLS/Xray-core) (версия 1.8.0)
+- Tun2Socks: [https://github.com/heiher/hev-socks5-tunnel](https://github.com/heiher/hev-socks5-tunnel)
 
-Tun2Socks
-    https://github.com/heiher/hev-socks5-tunnel
-    
-编译：
-    1.下载工程
-    2.更新依赖
-    3.修改Config.xcconfig中DEVELOPMENT_TEAM & APP_ID
-  
-关联项目：
-    XrayKit：https://github.com/daemooon/XrayKit
-    Tun2SocksKit：https://github.com/daemooon/Tun2SocksKit
+## Компиляция:
+1. Скачать проект.
+2. Обновить зависимости.
+3. Изменить `Config.xcconfig` в части `DEVELOPMENT_TEAM` и `APP_ID`.
+
+## Связанные проекты:
+- XrayKit: [https://github.com/romaxa55/XrayKit](https://github.com/romaxa55/XrayKit)
+- Tun2SocksKit: [https://github.com/romaxa55/Tun2SocksKit](https://github.com/romaxa55/Tun2SocksKit)
